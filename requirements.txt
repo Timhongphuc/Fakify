@@ -1,0 +1,4 @@
+streamlit
+mistralai
+exa-py
+python-dotenv
