@@ -13,11 +13,11 @@ Fakify is a modern fake news detector powered by the Mistral and Exa API's
 6. The result is then displayed to you (the user) throughout the sleek and clean Streamlit UI -> It sould then contain the different aspects such as 'Claim', 'Source Credibility', 'Language Used', 'Inconsistencies', and 'Overall Assessment'
 
 ## Tech Stack 📚
-- Frontend: Streamlit (Python)
-- Website Context: Exa Context API
-- Search query generation: Mistral API (Model: Mistral Medium) 
-- AI Search: Exa Search API
-- Brief AI Summary (Model: Mistral Large latest)
+- Frontend: [Streamlit](https://streamlit.io/) (Python)
+- Website Context: [Exa Context API](https://exa.ai/docs/reference/get-contents)
+- Search query generation: [Mistral API (Model: Mistral Medium)](https://mistral.ai/news/mistral-medium-3)
+- AI Search: [Exa Search API](https://exa.ai/docs/reference/search)
+- Brief AI Summary (Model: Mistral Large latest) -> [Mistral-large-latest](https://mistral.ai/news/mistral-3)
 
 ## Fakify RAG architecture 
 <img width="988" height="573" alt="Fakify activity flowchart (2026-01-11 15 36 25) excalidraw" src="https://github.com/user-attachments/assets/aa943451-a3a8-4c31-91e6-34f08f0e151f" />
@@ -32,3 +32,5 @@ Fakify is a modern fake news detector powered by the Mistral and Exa API's
 ## Screenshots
 
 <img width="765" height="1218" alt="Bildschirmfoto 2026-01-11 um 18 51 05" src="https://github.com/user-attachments/assets/a0f95589-27ac-4efb-bf40-b10e153e2770" />
+
+### Please mind your usage. Thank you! (My API credit balance is not infinite --> 1 query ≈ 1$)
