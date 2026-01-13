@@ -19,4 +19,4 @@ Fakify is a modern fake news detector powered by the Mistral and Exa API's
 ## Definition RAG (Retrieval-augmented generation)
 
 >[!NOTE] What is the RAG architecture?
->Retrieval-augmented generation (RAG) is a technique that enables large language models (LLMs) to retrieve and incorporate new information from external data sources. With RAG, LLMs do not respond to user queries until they refer to a specified set of documents. These documents supplement information from the LLM's pre-existing training data.
+Retrieval-augmented generation (RAG) is a technique that enables large language models (LLMs) to retrieve and incorporate new information from external data sources. With RAG, LLMs do not respond to user queries until they refer to a specified set of documents. These documents supplement information from the LLM's pre-existing training data.
