@@ -4,6 +4,12 @@
 Fakify is a modern fake news detector powered by the Mistral and Exa API's
 </div>
 
+## Tech Stack 📚
+- Frontend: Streamlit (Python)
+- Website Context: Exa Context API
+- Search query generation: Mistral API (Model: Mistral Medium) 
+- AI Search: Exa Search API
+- Brief AI Summary (Model: Mistral Large latest)
 
 ## Fakify RAG architecture
 
