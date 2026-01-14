@@ -34,3 +34,8 @@ Fakify is a modern fake news detector powered by the Mistral and Exa API's
 <img width="765" height="1218" alt="Bildschirmfoto 2026-01-11 um 18 51 05" src="https://github.com/user-attachments/assets/a0f95589-27ac-4efb-bf40-b10e153e2770" />
 
 ### Please mind your usage. Thank you! (My API credit balance is not infinite --> 1 query ≈ 1$)
+
+## Project information ℹ️
+- Duration of the Project (Beginnging - End): 10. Janurary 2026 - 12. Janurary 2026
+- Sticky notes used: ≈ 0
+- Hours I spend building this Project: ≈ 10h
