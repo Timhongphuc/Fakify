@@ -4,6 +4,8 @@
 Fakify is a modern fake news detector powered by the Mistral and Exa API's
 </div>
 
+### Discalimer: AI can sometimes produce wrong results or hallucinate. Please check critical information manually.
+
 ## How it works 🔎
 1. Paste in the URL of the article you want to check
 2. The Exa API will firstly get the websites content
