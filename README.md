@@ -4,7 +4,7 @@
 Fakify is a modern fake news detector powered by the Mistral and Exa API's
 </div>
 
-### Discalimer: AI can sometimes produce wrong results or hallucinate. Please check critical information manually.
+### Disclaimer: AI can sometimes produce wrong results or hallucinate. Please check critical information manually.
 
 ## How it works 🔎
 1. Paste in the URL of the article you want to check
@@ -38,6 +38,6 @@ Fakify is a modern fake news detector powered by the Mistral and Exa API's
 ### Please mind your usage. Thank you! (My API credit balance is not infinite --> 1 query ≈ 0.50$)
 
 ## Project information ℹ️
-- Duration of the Project (Beginnging - End): 10. Janurary 2026 - 12. Janurary 2026
+- Duration of the Project (Beginning - End): 10. Janurary 2026 - 12. Janurary 2026
 - Sticky notes used: ≈ 0
 - Hours I spend building this Project: ≈ 10h
