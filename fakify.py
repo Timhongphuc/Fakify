@@ -2,7 +2,7 @@
 import streamlit as st
 #from openai import OpenAI
 #from groq import Groq
-from mistralai import Mistral
+from mistralai.client import Mistral
 from exa_py import Exa
 import os
 from dotenv import load_dotenv
