@@ -124,7 +124,8 @@ if input_text:
                 api_key=os.environ.get("MISTRAL_API_KEY"),
             ) as mistral:
 
-                res = mistral.chat.complete(model="mistral-large-latest", messages=[
+                #res = mistral.chat.complete(model="mistral-large-latest", messages=[
+                res = mistral.chat.complete(model="mistral-small-latest", messages=[
                     {
                        "content": f"Please provide me with an comprehensive analysis. These are the sources you can use to fulfill your task: The content of the News article you HAVE to check: {article_content}, similar search results to the topic (to verify credibility). Take a deep look into the sources: {search_results}. These sources are really important. If there are other Websites that provide the same information as given in the article, rate the article as real or likely real. If the topic in the article appears in other sources and the source is trustworthy change the rating accordingly.",
                        "role": "user"
