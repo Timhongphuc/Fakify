@@ -14,6 +14,8 @@ Fakify is a modern fake news detector powered by the Mistral and Exa API's
 5. Mistral large will then generate a comprehensive review of the article based on content and similar results on the internet
 6. The result is then displayed to you (the user) throughout the sleek and clean Streamlit UI -> It sould then contain the different aspects such as 'Claim', 'Source Credibility', 'Language Used', 'Inconsistencies', and 'Overall Assessment'
 
+> Looking for a way to embedd Fakify into your own product? -> [There is an API!](https://github.com/Timhongphuc/FakifyAPI)
+
 ## Tech Stack 📚
 - Frontend: [Streamlit](https://streamlit.io/) (Python)
 - Website Context: [Exa Context API](https://exa.ai/docs/reference/get-contents)
